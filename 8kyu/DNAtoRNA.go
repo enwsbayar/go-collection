@@ -1,5 +1,4 @@
 package main
-import "fmt"
 
 func DNAtoRNA(dna string) string{
 	rna := ""
