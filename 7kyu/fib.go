@@ -2,7 +2,6 @@
 
 package main
 
-
 func Fib(n int) int {
   if n <= 1 {
     return n
