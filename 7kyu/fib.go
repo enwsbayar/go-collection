@@ -1,6 +1,6 @@
 //Create function fib that returns n'th element of Fibonacci sequence (classic programming task).
 
-package kata
+package main
 
 
 func Fib(n int) int {
