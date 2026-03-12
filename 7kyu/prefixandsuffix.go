@@ -21,5 +21,6 @@ func Solve(s string) int {
 			return i
 		}
 	}
+	
 	return 0
 }
