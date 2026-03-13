@@ -12,6 +12,7 @@ import "strings"
 func capitalize(s string, indices []int) string {
 	runes := []rune(s)
 	
+	
 	for _, idx := range indices {
 		if idx >= 0 && idx < len(runes) {
 			runes[idx] = []rune(strings.ToUpper(string(runes[idx])))[0]
