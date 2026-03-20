@@ -19,4 +19,5 @@ func AlexMistakes(numberOfKatas, timeLimit int) int {
   }
   
   return mistakes
+  
 }
