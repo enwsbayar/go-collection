@@ -32,4 +32,5 @@ func NameValue(words []string) []int {
 
 func WordValue(words []string) []int {
 	return NameValue(words)
+	
 }
