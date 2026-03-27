@@ -40,7 +40,6 @@
 // sumsum(5000) --> 125025000000
 
 package main
-
 func SuMin(m int)  int64 {
     n := int64(m)
     return n * (n + 1) * (2*n + 1) / 6
