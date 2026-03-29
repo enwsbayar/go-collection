@@ -16,6 +16,7 @@
 package main
 
 
+
 func Collatz(n int) int {
   length := 1
   for n > 1 {
