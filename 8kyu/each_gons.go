@@ -8,7 +8,6 @@
 
 // As you can see, the lists are cascading; ie, they overlap, but never out of order.
 
-
 package main
 
 func each_cons(list []int, n int) [][]int {
