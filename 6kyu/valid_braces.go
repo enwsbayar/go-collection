@@ -6,7 +6,6 @@
 
 // What is considered Valid?
 // A string of braces is considered valid if all braces are matched with the correct brace.
-
 // Examples
 // "(){}[]"   =>  True
 // "([{}])"   =>  True
