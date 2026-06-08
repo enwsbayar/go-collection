@@ -24,7 +24,6 @@
 
 // nbrOfLaps(5, 3); // returns [3, 5]
 // nbrOfLaps(4, 6); // returns [3, 2]
-
 package main
 
 func gcd(a, b int) int {
