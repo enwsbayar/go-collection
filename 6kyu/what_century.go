@@ -11,6 +11,7 @@ import "strconv"
 // "2259" --> "23rd"
 // "1124" --> "12th"
 // "2000" --> "20th"
+
 func whatCentury(year string) string {
     y, _ := strconv.Atoi(year)
     century := (y + 99) / 100
