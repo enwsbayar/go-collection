@@ -9,7 +9,6 @@ func longestRepetition(s string) Result {
     if len(s) == 0 {
         return Result{}
     }
-
     best := Result{C: rune(s[0]), L: 1}
     currentChar := best.C
     currentLen := 1
