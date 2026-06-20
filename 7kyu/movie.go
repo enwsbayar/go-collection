@@ -36,5 +36,3 @@ func Movie(card, ticket int, perc float64) int {
     }
 }
 
-// movie(100, 10, 0.95) should return 24 
-//     (with card the total price is 235, with tickets 240)
