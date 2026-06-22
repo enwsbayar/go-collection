@@ -20,6 +20,5 @@ func findNb(m int) int {
         }
         n++
     }
-
     return -1
 }
