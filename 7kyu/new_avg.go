@@ -14,6 +14,7 @@
 // See examples below and "Sample Tests" to see which return is to be done.
 // array: [14, 30, 5, 7, 9, 11, 15], new average: 92 -> result: 645
 // array: [14, 30, 5, 7, 9, 11, 15], new average: 2  -> result: variable, see "Sample Tests" 
+
 package main
 
 import "math"
