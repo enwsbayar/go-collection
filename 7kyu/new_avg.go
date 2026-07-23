@@ -16,7 +16,6 @@
 // array: [14, 30, 5, 7, 9, 11, 15], new average: 2  -> result: variable, see "Sample Tests" 
 
 package main
-
 import "math"
 
 func NewAvg(arr []float64, navg float64) int {
