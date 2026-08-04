@@ -13,6 +13,7 @@
 // garden = 'gravel gravel rock gravel gravel gravel gravel gravel gravel gravel'
 // Please also try the other Kata in this series..
 
+
 package kata
 
 import "strings"
