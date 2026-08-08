@@ -18,6 +18,7 @@
 //  (3600 * delta_distance) / s.
 
 // Happy coding!
+
 package kata
 
 import "math"
