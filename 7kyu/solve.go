@@ -21,7 +21,6 @@ func solve(arr []int) []int {
 			}
 		}
 
-	
 		if !found {
 			result = append(result, arr[i])
 		}
